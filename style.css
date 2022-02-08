@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.titulo{
+    text-align: center;
+    margin: 20px;
+    font-weight: bolder;
+}
+
+hr{
+    margin: 20px 209px;
+}
+
+p{
+    text-align: center;
+    margin: 5px;
+}
+
+footer{
+    text-align: center;
+    margin: 20px;
+    font-size: large;
+}
+
+/* Gradientes */
+
+.grad1{
+    /* width: 100vh; */
+    height: 150px;
+    background: linear-gradient(#DBC2FF, #6D5394, #E0DE94);
+}
+
+.grad2{
+    margin-top: 10px;
+    height: 150px;
+    background: linear-gradient(to right, #3A945E, #6EE09C, #E0AD58);
+}
+
+.grad3{
+    margin-top: 10px;
+    height: 150px;
+    background: linear-gradient(to top left, #454194, #5F58E0, #A1DE95);
+}
+
+.grad4{
+    margin-top: 10px;
+    height: 150px;
+    background: linear-gradient(90deg, #E09479, #B394E0, #8EE0A1);
+}
+
+.grad5{
+    margin-top: 10px;
+    height: 150px;
+    background: radial-gradient(#E02F82, #E0A114, #316CE0);
+}
+
+.grad6{
+    margin-top: 10px;
+    height: 150px;
+    background: repeating-radial-gradient(#E02F82, #E0A114 10%, #316CE0 15%);
+}
+
+.grad7{
+    margin-top: 10px;
+    height: 150px;
+    background: repeating-linear-gradient(#7A2B1C, #D2E4C9 20%, #93AD5C 10%);
+}
+
+.grad8{
+    margin-top: 10px;
+    height: 150px;
+    background: linear-gradient(to left, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+/* Imagens */
+
+.img1{
+    margin-top: 10px;
+    height: 300px;
+    background-image: url(./src/img/img1.jpg);
+    background-size: cover;
+    background-position: center 38%;
+}
+
+.img2{
+    margin-top: 10px;
+    height: 300px;
+    background-image: url(./src/img/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 70%;
+}
+
+.img3{
+    margin-top: 10px;
+    height: 300px;
+    background-image: url(./src/img/img3.jpg);
+    background-size: cover;
+    background-position: center 65%;
+}
+
+.img4{
+    margin-top: 10px;
+    height: 300px;
+    background-image: url(./src/img/img4.jpg);
+    background-size: cover;
+    background-position: center 30%;
+}
+
+.img5{
+    margin-top: 10px;
+    height: 300px;
+    background-image: url(./src/img/img5.jpg);
+    background-size: cover;
+    background-position: center 58%;
+}
+
+.img6{
+    margin-top: 10px;
+    height: 300px;
+    background-image: url(./src/img/gif1.gif);
+    background-size: cover;
+    background-position: center 50%;
+}
+
+.img7{
+    margin-top: 10px;
+    height: 400px;
+    background-image: url(./src/img/gif2.gif);
+    background-size: 100%;
+    background-position: center 35%;
+}
+
+.img8{
+    margin-top: 10px;
+    height: 400px;
+    background-image: url(./src/img/gif3.gif);
+    background-size: 100%;
+    background-position: center 40%;
+}
