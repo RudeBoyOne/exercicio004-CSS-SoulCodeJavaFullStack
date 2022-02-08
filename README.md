@@ -1,2 +1,7 @@
 # exercicio004-CSS-SoulCodeJavaFullStack
-A proposta deste exercício foi praticar estilização com "backgrounds"
+
+<br>
+
+
+- O que foi praticado:
+    - estilização com backgrounds
